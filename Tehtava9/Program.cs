@@ -10,7 +10,7 @@ namespace Tehtava9
     {
         static void Main(string[] args)
         {
-            int luku,luku2=0, summa;
+            int luku,luku2=0;
             
             do
             {
